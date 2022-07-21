@@ -1,0 +1,5 @@
+basurl: "hosting_askrowdy"
+url: "" # the base hostname & protocol for your site
+plugin: jekyll-sitemap
+exclude: 
+- README.md
